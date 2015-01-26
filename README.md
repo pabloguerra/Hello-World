@@ -1,3 +1,8 @@
-# Hello-World
-My first repository
-soy pablo guerra
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "Hello World" << endl;
+	return 0;
+}
